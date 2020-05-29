@@ -47,3 +47,5 @@
 #     if max_value < number:
 #         max_value = number
 # print(max_value)
+nums = [1, 2, 3]
+print(nums[1: 3] + nums[0:1])
